@@ -1,0 +1,4 @@
+if (self.CavalryLogger) { CavalryLogger.start_js_script(document.currentScript); }/*FB_PKG_DELIM*/
+
+__d("CometUFIReactionsCountTooltipContent.react",["cr:487","react"],(function(a,b,c,d,e,f,g){"use strict";d("react"),g["default"]=b("cr:487")}),98);
+__d("GroupsCometMembersNewMembersThisWeekQuery_facebookRelayOperation",[],(function(a,b,c,d,e,f){e.exports="4778310055611215"}),null);
